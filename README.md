@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: i love web design😄
 -->
-- 👋 Hi there, Im [dimas](https://www.instagram.com/dimasekaputraaa/) Dimas
+- 👋 Hi there, Im [dimas](https://www.instagram.com/dimasekaputraaa/)
 - 🌱 I’m currently learning Quality Assurance
 - 📫 How to reach me: @dimaseputra.a@gmail.com
 
