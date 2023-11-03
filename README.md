@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: i love web design😄
 -->
 - 👋 Hi there, Im [dimas](https://www.instagram.com/dimasekaputraaa/)
-- 🌱 I’m currently learning Quality Assurance
+- 🌱 I’m currently learning Frontend & Quality Assurance
 - 📫 How to reach me : dimasteknik018@gmail.com
 
 
